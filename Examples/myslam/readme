@@ -1,3 +1,8 @@
+[学习slam]用ORB SLAM2跑自己的数据集 使用图片序列或摄像头或视频 实践篇
+https://blog.csdn.net/KYJL888/article/details/86627868
+
+——————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 string parameterFile = "./myvideo.yaml";
 string vocFile = "../../Vocabulary/ORBvoc.txt";
 
